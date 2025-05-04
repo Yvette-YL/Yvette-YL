@@ -1,5 +1,12 @@
 ## Hi there 👋
+I' m **Yvette**, <br>
+A data analyst, <br>
+Who is always curious, always learning <br>
+— with a focus on actionable insights and real-world impact.
 
+<a href="https://www.linkedin.com/in/yvette-yang-liu/"> LinkedIn
+  <img align="left" alt="Ankit's LinkdeIN" width="24px" src="https://yvette-yl.github.io/img/linkedin.svg" />
+</a>
 <!--
 **Yvette-YL/Yvette-YL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
