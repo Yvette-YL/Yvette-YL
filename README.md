@@ -1,8 +1,10 @@
 ## Hi there 👋
-I' m **Yvette**, <br>
-A data analyst, <br>
-Who is always curious, always learning <br>
-— with a focus on actionable insights and real-world impact.
+I' m **Yvette**, a data analyst, <br>
+📊With hands-on experience in data cleaning, data visualization, and Python programming. 🐍<br>
+🔍I take a problem-solving approach to analysis — observing deeply, identifying root causes, and designing the most effective solutions.💡<br> 
+🎓Passionate about learning, I continuously explore new tools, technologies, and methods, allowing me to adapt quickly and thrive in emerging domains. 🔋
+
+I'm currently based in _ and open to new opportunities where I can bring clarity to complexity through data.
 
 <a href="https://www.linkedin.com/in/yvette-yang-liu/"> LinkedIn
   <img align="left" alt="Ankit's LinkdeIN" width="24px" src="https://yvette-yl.github.io/img/linkedin.svg" />
